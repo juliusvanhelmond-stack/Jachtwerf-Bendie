@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.taste-skill/inspect
+next-env.d.ts
+*.tsbuildinfo
+assets-src/*.webm
+assets-src/*.jpg
+assets-src/*.webp
